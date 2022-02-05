@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/flaskblog",
+        "prod_uri":"mysql://root:@localhost/flaskblog",
+        "tweet_url":"https://www.twitter.com",
+        "fb_url":"https://www.facebook.com",
+        "git_url":"https://www.github.com",
+        "blog_name":"Flask Blog",
+        "tagline":"A Blog Theme by Salemo",
+        "gmail_user":"example@mail.com",
+        "gmail_password":"youremailpassword",
+        "about_text":"Hi this is Salemo and I am learning Flask rightnow from Harry's Youtube channel. This is the about page of my flask blog.",
+        "no_of_posts": 3,
+        "admin_username": "admin",
+        "admin_password": "admin",
+        "upload_location": "D:\\PythonProjects\\Flask_WebApp_Tutorial\\static\\assets\\img"
+    }
+}
